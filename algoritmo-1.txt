@@ -1,0 +1,17 @@
+ALGORITMO 1
+
+-Apro www.amazon.it
+-Seleziono la barra di ricerca
+-Cerco “Lampada da tavolo particolare”:
+	SE la lampada è Prime:
+	-Acquista la Lampada
+	ALTRIMENTI
+	-Continua a cercare
+-Cerco “Bella Stilografica”:
+	SE la stilografica è < Budget
+	-Acquista Stilografica
+	ALTRIMENTI
+	-Continua a cercare
+-Cerco “Libro classico”
+SE 
+-il libro e’ disponibile lo acquisto
